@@ -5,3 +5,9 @@ I am an Augmented Reality developer. I help people to become the best version of
 <br>
 
 - Find me on <a href="https://www.linkedin.com/in/tejusw/">LinkedIn</a>
+|[<img src="https://github.com/TejusWadbudhe/TejusWadbudhe/blob/master/unity.png" width="24">] 
+|[<img src="https://github.com/TejusWadbudhe/TejusWadbudhe/blob/master/c-logo-icon-18.png" width="24">] 
+|[<img src="https://github.com/TejusWadbudhe/TejusWadbudhe/blob/master/arcore.png" width="24">] 
+|[<img src="https://github.com/TejusWadbudhe/TejusWadbudhe/blob/master/powerapps.png" width="24">] 
+|[<img src="https://github.com/TejusWadbudhe/TejusWadbudhe/blob/master/azure.png" width="24">] 
+|---|---|---|---|---|
